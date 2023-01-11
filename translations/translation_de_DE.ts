@@ -58,10 +58,15 @@
     <context>
         <name>behavior_1/behavior.xar:/game/Say (1)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Ok, schade. Das hat Spaß gemacht. Dann sehen wir uns beim nächsten Mal wieder. Tschau!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Ok, schade. Das hat Spaß gemacht. Dann sehen wir uns beim nächsten Mal wieder. Tschau!</translation>
+            <translation type="obsolete">Ok, schade. Das hat Spaß gemacht. Dann sehen wir uns beim nächsten Mal wieder. Tschau!</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ok, schade. Das hat Spaß gemacht. Dann sehen wir uns beim nächsten Mal wieder. Wiederschaun! und rein gehauen.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ok, schade. Das hat Spaß gemacht. Dann sehen wir uns beim nächsten Mal wieder. Wiederschaun! und rein gehauen.</translation>
         </message>
     </context>
     <context>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="1.2.3" installOnlyAtStartup="false" uuid="auflockerungsspiel_karriereleiter-f36976">
+<package installOnlyAtStartup="false" uuid="auflockerungsspiel_karriereleiter-f36976" version="1.2.3">
  <names>
   <name lang="de_DE">Auflockerungsspiel Karriereleiter</name>
   <name lang="en_US">Karriereleiter_Auflockerungsspiel</name>
