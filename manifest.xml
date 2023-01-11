@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="1.2.3" installOnlyAtStartup="false" uuid="auflockerungsspiel_karriereleiter-f36976">
+ <names>
+  <name lang="de_DE">Auflockerungsspiel Karriereleiter</name>
+  <name lang="en_US">Karriereleiter_Auflockerungsspiel</name>
+ </names>
+ <descriptions>
+  <description lang="de_DE">Ein Auflockerungsspiel ca. 15min für zwischendurch. Angelehnt an Schnick-Schnack-Schnuck.</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>de_DE</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>de_DE</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
