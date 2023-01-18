@@ -1,4 +1,4 @@
-# Evolution Game ("rock paper scissor") for NAO Robot [v.1.0]
+# Evolution Game ("rock paper scissor") for NAO Robot [v.1.1]
 *Attention: this project is only available in German!*<br>
 
 ![1553685317](https://user-images.githubusercontent.com/68842909/212918999-cb1704ce-3d4f-4bec-90a7-772aa32036c7.png)
@@ -35,3 +35,6 @@ with his camera in real time, making the gameplay more natural.
 ---
 
 ### Changelog
+
+v.1.1 <br>
+Fix: the "hand animation" - animation causes an error and crashes the programm
