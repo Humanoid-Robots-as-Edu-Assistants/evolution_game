@@ -27,7 +27,9 @@ They must show your chosen NAO-marks and what the card represents (rock, paper o
 If you don't want to create this yourself, you can use the "cards" image in the files and print it out.
 
 
-### plans of further development
+![nao evolution game 1](https://user-images.githubusercontent.com/68842909/213145129-9a2e5c62-193e-4891-8d9a-21d95afc7a64.jpeg)
+
+### Plans of further development:
 
 Sometime in the future, it is planned that Nao will recognize the player's hand position<br>
 with his camera in real time, making the gameplay more natural.
