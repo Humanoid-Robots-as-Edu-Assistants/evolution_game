@@ -187,84 +187,150 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/game/logic/Papier/behavior_layer1/keyframe30/Say</name>
+        <name>behavior_1/behavior.xar:/game/logic/Hand Animation/behavior_layer1/keyframe1/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnick. Schnack. Schnuck.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Schnick. Schnack. Schnuck.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Hand Animation/behavior_layer1/keyframe30/Say</name>
+        <message>
             <source>Schnick</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnick</translation>
+            <translation type="obsolete">Schnick</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Hand Animation/behavior_layer1/keyframe30_copy/Say</name>
+        <message>
+            <source>Schnack</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Schnack</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Hand Animation/behavior_layer1/keyframe30_copy_copy/Say</name>
+        <message>
+            <source>Schnuck</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Schnuck</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Papier/behavior_layer1/keyframe30/Say</name>
+        <message>
+            <source>Schnick</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Schnick</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Papier/behavior_layer1/keyframe30_copy/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnack</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnack</translation>
+            <translation type="obsolete">Schnack</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Papier/behavior_layer1/keyframe30_copy_copy/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnuck</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnuck</translation>
+            <translation type="obsolete">Schnuck</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Say</name>
+        <message>
+            <source>Hallo</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnick. Schnack. Schnuck.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnick. Schnack. Schnuck.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Schere/behavior_layer1/keyframe1/Say</name>
+        <message>
+            <source>Hallo</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Schere/behavior_layer1/keyframe30/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnick</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnick</translation>
+            <translation type="obsolete">Schnick</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Schere/behavior_layer1/keyframe30_copy/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnack</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnack</translation>
+            <translation type="obsolete">Schnack</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Schere/behavior_layer1/keyframe30_copy_copy/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnuck</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnuck</translation>
+            <translation type="obsolete">Schnuck</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Stein/behavior_layer1/keyframe30/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnick</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnick</translation>
+            <translation type="obsolete">Schnick</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Stein/behavior_layer1/keyframe30_copy/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnack</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnack</translation>
+            <translation type="obsolete">Schnack</translation>
         </message>
     </context>
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Stein/behavior_layer1/keyframe30_copy_copy/Say</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnuck</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnuck</translation>
+            <translation type="obsolete">Schnuck</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/hand animation/behavior_layer1/keyframe10/Say</name>
+        <message>
+            <source>Hallo</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+        <message>
+            <source>Schnick. Schnack. Schnuck.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Schnick. Schnack. Schnuck.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/hand animation/behavior_layer1/keyframe10/Say</name>
+        <message>
+            <source>Schnick. Schnack. Schnuck.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Schnick. Schnack. Schnuck.</translation>
         </message>
     </context>
 </TS>

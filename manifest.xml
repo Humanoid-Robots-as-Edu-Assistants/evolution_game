@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package installOnlyAtStartup="false" uuid="auflockerungsspiel_karriereleiter-f36976" version="1.2.3">
+<package installOnlyAtStartup="false" uuid="evolution_game-d976c9" version="1.1.0">
  <names>
-  <name lang="de_DE">Auflockerungsspiel Karriereleiter</name>
+  <name lang="de_DE">evolution game</name>
   <name lang="en_US">Karriereleiter_Auflockerungsspiel</name>
  </names>
  <descriptions>
-  <description lang="de_DE">Ein Auflockerungsspiel ca. 15min für zwischendurch. Angelehnt an Schnick-Schnack-Schnuck.</description>
+  <description lang="de_DE">This game serves to loosen up the lesson a bit. It can be done with any number of students. ~15min</description>
  </descriptions>
  <supportedLanguages>
   <language>de_DE</language>
@@ -17,7 +17,20 @@
   <behaviorContent path="behavior_1">
    <userRequestable/>
    <nature>interactive</nature>
-   <permissions/>
+   <names>
+    <name lang="de_DE">evolution game</name>
+   </names>
+   <descriptions>
+    <description lang="de_DE">A small evolution game to performe with students. It will take about 15 minutes.</description>
+   </descriptions>
+   <permissions>
+    <canStandUp/>
+    <canSitDown/>
+   </permissions>
   </behaviorContent>
  </contents>
+ <requirements>
+  <naoqiRequirement maxVersion="2.8" minVersion="2.8"/>
+  <robotRequirement minHeadVersion="5.0" maxHeadVersion="5.0" model="NAO" minBodyVersion="5.0" maxBodyVersion="5.0"/>
+ </requirements>
 </package>
