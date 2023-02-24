@@ -1,4 +1,4 @@
-# Evolution Game ("rock paper scissor") for NAO Robot [v.1.1]
+# "Evolution Game" for NAO robot [v.1.1]
 *Attention: this project is only available in German!*<br>
 
 ![1553685317](https://user-images.githubusercontent.com/68842909/212918999-cb1704ce-3d4f-4bec-90a7-772aa32036c7.png)
@@ -26,13 +26,13 @@ In addition to this program on your Nao, you also need 3 cards.<br>
 They must show your chosen NAO-marks and what the card represents (rock, paper or scissors).<br>
 If you don't want to create this yourself, you can use the "cards" image in the files and print it out.
 
-
-![nao evolution game 1](https://user-images.githubusercontent.com/68842909/213145129-9a2e5c62-193e-4891-8d9a-21d95afc7a64.jpeg)
-
 ### Plans of further development:
 
 Sometime in the future, it is planned that Nao will recognize the player's hand position<br>
 with his camera in real time, making the gameplay more natural.
+
+### Choregraphe screenshot:
+![nao evolution game 1](https://user-images.githubusercontent.com/68842909/213145129-9a2e5c62-193e-4891-8d9a-21d95afc7a64.jpeg)
 
 ---
 
