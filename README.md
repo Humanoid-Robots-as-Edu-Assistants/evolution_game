@@ -28,7 +28,6 @@ Sometime in the future, it is planned that Nao will recognize the player's hand 
 with his camera in real time, making the gameplay more natural.
 
 ### Choregraphe screenshot:
-![nao evolution game 1](https://user-images.githubusercontent.com/68842909/213145129-9a2e5c62-193e-4891-8d9a-21d95afc7a64.jpeg)
 
 ---
 
