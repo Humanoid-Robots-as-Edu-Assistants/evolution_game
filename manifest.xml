@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package installOnlyAtStartup="false" uuid="evolution_game-d976c9" version="1.1.0">
+<package uuid="evolution_game-d01393" installOnlyAtStartup="false" version="1.1.0">
  <names>
   <name lang="de_DE">evolution game</name>
   <name lang="en_US">Karriereleiter_Auflockerungsspiel</name>
@@ -31,6 +31,6 @@
  </contents>
  <requirements>
   <naoqiRequirement maxVersion="2.8" minVersion="2.8"/>
-  <robotRequirement minHeadVersion="5.0" maxHeadVersion="5.0" model="NAO" minBodyVersion="5.0" maxBodyVersion="5.0"/>
+  <robotRequirement maxBodyVersion="5.0" minHeadVersion="5.0" maxHeadVersion="5.0" model="NAO" minBodyVersion="5.0"/>
  </requirements>
 </package>

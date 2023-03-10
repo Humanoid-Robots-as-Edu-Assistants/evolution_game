@@ -90,10 +90,15 @@
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Animated Say (11)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Ich gewinne. Juhu</source>
             <comment>Text</comment>
-            <translation type="unfinished">Ich gewinne. Juhu</translation>
+            <translation type="obsolete">Ich gewinne. Juhu</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Du gewinnst. Herzlichen Glückwunsch!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Du gewinnst. Herzlichen Glückwunsch!</translation>
         </message>
     </context>
     <context>
@@ -108,10 +113,15 @@
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Animated Say (13)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Du gewinnst. Herzlichen Glückwunsch!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Du gewinnst. Herzlichen Glückwunsch!</translation>
+            <translation type="obsolete">Du gewinnst. Herzlichen Glückwunsch!</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Ich gewinne. Juhu</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Ich gewinne. Juhu</translation>
         </message>
     </context>
     <context>
@@ -219,6 +229,33 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/game/logic/Paper/behavior_layer2/keyframe27/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnack</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnack</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Paper/behavior_layer2/keyframe42/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnuck</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnuck</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Paper/behavior_layer2/keyframe8/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnick</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnick</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/game/logic/Papier/behavior_layer1/keyframe30/Say</name>
         <message>
             <source>Schnick</source>
@@ -243,6 +280,33 @@
         </message>
     </context>
     <context>
+        <name>behavior_1/behavior.xar:/game/logic/Rock/behavior_layer2/keyframe27/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnack</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnack</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Rock/behavior_layer2/keyframe42/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnuck</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnuck</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Rock/behavior_layer2/keyframe8/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnick</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnick</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/game/logic/Say</name>
         <message>
             <source>Hallo</source>
@@ -250,10 +314,9 @@
             <translation type="vanished">Hallo</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Schnick. Schnack. Schnuck.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Schnick. Schnack. Schnuck.</translation>
+            <translation type="obsolete">Schnick. Schnack. Schnuck.</translation>
         </message>
     </context>
     <context>
@@ -286,6 +349,33 @@
             <source>Schnuck</source>
             <comment>Text</comment>
             <translation type="obsolete">Schnuck</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Scissor/behavior_layer2/keyframe27/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnack</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnack</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Scissor/behavior_layer2/keyframe42/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnuck</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnuck</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Scissor/behavior_layer2/keyframe8/Say</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Schnick</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Schnick</translation>
         </message>
     </context>
     <context>
