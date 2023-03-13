@@ -34,5 +34,9 @@ with his camera in real time, making the gameplay more natural.
 
 ### Changelog
 
+v.1.2 <br>
+add: new animation (3) - animations for "rock" , "paper" and "scissors"
+fixed: bug in logic - you will win now, when Nao picked scissors against rock
+
 v.1.1 <br>
 Fix: the "hand animation" - animation causes an error and crashes the programm
