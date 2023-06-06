@@ -13,10 +13,15 @@
     <context>
         <name>behavior_1/behavior.xar:/Animated Say (3)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Also dann: lasst uns anfangen!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Also dann: lasst uns anfangen!</translation>
+            <translation type="obsolete">Also dann: lasst uns anfangen!</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Also dann: lasst uns anfangen! Auf die Plätze, fertig, los</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Also dann: lasst uns anfangen! Auf die Plätze, fertig, los</translation>
         </message>
     </context>
     <context>
@@ -81,10 +86,15 @@
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Animated Say (10)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Mein Papier gegen dein Papier.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Mein Papier gegen dein Papier.</translation>
+            <translation type="obsolete">Mein Papier gegen dein Papier.</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Mein Stein gegen dein Papier.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Mein Stein gegen dein Papier.</translation>
         </message>
     </context>
     <context>
@@ -154,32 +164,10 @@
     <context>
         <name>behavior_1/behavior.xar:/game/logic/Animated Say (5)</name>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Mein Stein gegen deine Schere.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Mein Stein gegen deine Schere.</translation>
+            <translation type="obsolete">Mein Stein gegen deine Schere.</translation>
         </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/game/logic/Animated Say (6)</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Mein Stein gegen deinen Stein.</source>
-            <comment>Text</comment>
-            <translation type="unfinished">Mein Stein gegen deinen Stein.</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/game/logic/Animated Say (7)</name>
-        <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Mein Stein gegen dein Papier.</source>
-            <comment>Text</comment>
-            <translation type="unfinished">Mein Stein gegen dein Papier.</translation>
-        </message>
-    </context>
-    <context>
-        <name>behavior_1/behavior.xar:/game/logic/Animated Say (8)</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Mein Papier gegen deine Schere.</source>
@@ -188,12 +176,59 @@
         </message>
     </context>
     <context>
-        <name>behavior_1/behavior.xar:/game/logic/Animated Say (9)</name>
+        <name>behavior_1/behavior.xar:/game/logic/Animated Say (6)</name>
+        <message>
+            <source>Mein Stein gegen deinen Stein.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Mein Stein gegen deinen Stein.</translation>
+        </message>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Mein Papier gegen deinen Stein.</source>
             <comment>Text</comment>
             <translation type="unfinished">Mein Papier gegen deinen Stein.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Animated Say (7)</name>
+        <message>
+            <source>Mein Stein gegen dein Papier.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Mein Stein gegen dein Papier.</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Mein Papier gegen dein Papier.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Mein Papier gegen dein Papier.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Animated Say (8)</name>
+        <message>
+            <source>Mein Papier gegen deine Schere.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Mein Papier gegen deine Schere.</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Mein  Stein gegen deine Schere.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Mein  Stein gegen deine Schere.</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/game/logic/Animated Say (9)</name>
+        <message>
+            <source>Mein Papier gegen deinen Stein.</source>
+            <comment>Text</comment>
+            <translation type="obsolete">Mein Papier gegen deinen Stein.</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Mein Stein gegen deinen Stein.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Mein Stein gegen deinen Stein.</translation>
         </message>
     </context>
     <context>
