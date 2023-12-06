@@ -1,4 +1,4 @@
-# "Evolution Game" for NAO robot [v.1.1]
+# "Evolution Game" for NAO robot [v.1.2]
 *Attention: this project is only available in German!*
 
 
